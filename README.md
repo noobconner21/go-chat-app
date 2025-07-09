@@ -67,7 +67,7 @@ realtime-chat-app/
 
 ## ✨ Screenshots
 
-- ![Chat UI](./screenshots/chat-app.png)
+- ![Chat UI](./screenshots/screenshot-1.png)
 
 ---
 
